@@ -8,7 +8,7 @@ import os
 import json
 
 
-head = "https://www.indeed.com/"
+head = "https://www.nordstrom.com/browse/women/clothing?breadcrumb=Home%2FWomen%2FClothing&origin=topnav"
 
 chromedriver = "/Applications/chromedriver"
 os.environ["webdriver.chrome.driver"] = chromedriver
